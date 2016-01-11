@@ -13,6 +13,7 @@ _This list is incomplete._  **You can help improve it!**  Please use pull reques
 
 | Name                      | Full name and/or synonym(s) | Home page| Wikipedia page|
 |---------------------------|-----------------------------|----------|---------------|
+| αProlog                   | αProlog | [Home](http://homepages.inf.ed.ac.uk/jcheney/programs/aprolog/) | |
 | λProlog                   | λProlog | | [Wikipedia](http://wikipedia.org/wiki/%CE%9BProlog) |
 | 4DOS                      | 4DOS | [Home](http://www.4dos.info) | [Wikipedia](http://wikipedia.org/wiki/4DOS) |
 
