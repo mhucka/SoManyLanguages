@@ -1,11 +1,11 @@
 So Many Languages!
 ------------------
 
-This page is an attempt to provide a concise yet complete list of every known, publicly-released, higher-level programming language.  It excludes [machine languages](https://en.wikipedia.org/wiki/Machine_code) and efforts that are unknown outside of their developers (e.g., pet projects,  conceptual projects that never evolve into concrete implementations, and so on).
+This page is an attempt to provide a concise yet complete list of every known, publicly-released, higher-level programming language.  It excludes [machine languages](http://wikipedia.org/wiki/Machine_code) and efforts that are unknown outside of their developers (e.g., pet projects,  conceptual projects that never evolve into concrete implementations, and so on).
 
 _This list is incomplete._  **You can help improve it!**  Please use pull requests to submit updates and corrections, and use the issue tracker to bring up other problems.
 
-The original sources of data for this list are [Wikipedia](https://en.wikipedia.org/wiki/List_of_programming_languages_by_type), the languages found to exist GitHub repositories examined via [GitHub's API](https://developer.github.com/v3/repos/), and Google searches by the author.
+The original sources of data for this list are [Wikipedia](http://wikipedia.org/wiki/List_of_programming_languages_by_type), the languages found to exist GitHub repositories examined via [GitHub's API](http://developer.github.com/v3/repos/), and Google searches by the author.
 
 ----
 
@@ -56,13 +56,13 @@ The original sources of data for this list are [Wikipedia](https://en.wikipedia.
 | Apex                      | | | |
 | API Blueprint             | | | |
 | APL                       | APL | | [Wikipedia](http://wikipedia.org/wiki/APL_(programming_language)) |
-| AppleScript               | AppleScript | [Home](https://developer.apple.com/library/mac/documentation/AppleScript/Conceptual/AppleScriptLangGuide/introduction/ASLR_intro.html)| [Wikipedia](http://wikipedia.org/wiki/AppleScript) |
+| AppleScript               | AppleScript | [Home](http://developer.apple.com/library/mac/documentation/AppleScript/Conceptual/AppleScriptLangGuide/introduction/ASLR_intro.html)| [Wikipedia](http://wikipedia.org/wiki/AppleScript) |
 | Arc                       | Arc | | [Wikipedia](http://wikipedia.org/wiki/Arc_(programming_language)) |
 | Arduino                   | | | |
 | Argus                     | Argus | | [Wikipedia](http://wikipedia.org/wiki/Argus_(programming_language)) |
 | ARLOGO                    | ARLOGO | | [Wikipedia](http://wikipedia.org/wiki/ARLOGO) |
 | ARM                       | ARM architecture | | [Wikipedia](http://wikipedia.org/wiki/ARM_architecture) |
-| AsciiDoc                  | | | |
+| AsciiDoc                  | AsciiDoc | [Home](http://asciidoc.org) | [Wikipedia](http://wikipedia.org/wiki/AsciiDoc) |
 | ASP                       | | | |
 | AspectJ                   | | | |
 | Ateji PX                  | Ateji PX | | [Wikipedia](http://wikipedia.org/wiki/Ateji_PX) |
@@ -83,6 +83,7 @@ The original sources of data for this list are [Wikipedia](https://en.wikipedia.
 | Name                      | Full name and/or synonym(s) | Home page| Wikipedia page|
 |---------------------------|-----------------------------|----------|---------------|
 | B                         | B | | [Wikipedia](http://wikipedia.org/wiki/B_(programming_language)) |
+| B-Prolog                  | B-Prolog | | [Wikipedia](http://wikipedia.org/wiki/B-Prolog) |
 | Bash                      | Bash (Unix shell) | | [Wikipedia](http://wikipedia.org/wiki/Bash_(Unix_shell)) |
 | BASIC                     | BASIC | | [Wikipedia](http://wikipedia.org/wiki/BASIC) |
 | Batch file                | Windows batch language | | [Wikipedia](http://wikipedia.org/wiki/Batch_file) |
@@ -117,8 +118,8 @@ The original sources of data for this list are [Wikipedia](https://en.wikipedia.
 | C-ObjDump                 | | | |
 | C/AL                      | C/AL | | [Wikipedia](http://wikipedia.org/wiki/C/AL) |
 | C2hs Haskell              | | | |
-| Caché Basic               | Caché Basic | | [Wikipedia](https://en.wikipedia.org/wiki/Caché_Basic) |
-| Caché ObjectScript        | Caché ObjectScript | | [Wikipedia](https://en.wikipedia.org/wiki/Caché_ObjectScript) |
+| Caché Basic               | Caché Basic | | [Wikipedia](http://wikipedia.org/wiki/Caché_Basic) |
+| Caché ObjectScript        | Caché ObjectScript | | [Wikipedia](http://wikipedia.org/wiki/Caché_ObjectScript) |
 | CAL                       | Cakewalk Application Language | | [Wikipedia](http://wikipedia.org/wiki/Cakewalk_(sequencer)#Features) |
 | CAL                       | Conversational Algebraic Language | | [Wikipedia](http://wikipedia.org/wiki/CAL_(Joss_family)) |
 | Caml                      | | | |
@@ -151,14 +152,14 @@ The original sources of data for this list are [Wikipedia](https://en.wikipedia.
 | CLIST                     | CLIST | | [Wikipedia](http://wikipedia.org/wiki/CLIST) |
 | Clojure                   | Clojure | | [Wikipedia](http://wikipedia.org/wiki/Clojure) |
 | CLU                       | CLU | | [Wikipedia](http://wikipedia.org/wiki/CLU_(programming_language)) |
-| CMake                     | | | |
+| CMake                     | CMake | [Home](http://cmake.org) | [Wikipedia](http://wikipedia.org/wiki/CMake) |
 | CMS EXEC                  | CMS EXEC | | [Wikipedia](http://wikipedia.org/wiki/CMS_EXEC) |
 | Co-array Fortran          | Co-array Fortran | | [Wikipedia](http://wikipedia.org/wiki/Co-array_Fortran) |
 | COBOL                     | COBOL | | [Wikipedia](http://wikipedia.org/wiki/COBOL) |
 | Cobra                     | Cobra | | [Wikipedia](http://wikipedia.org/wiki/Cobra_(programming_language)) |
 | Coco/R                    | Coco/R | | [Wikipedia](http://wikipedia.org/wiki/Coco/R) |
 | CODE                      | CODE | | [Wikipedia](http://wikipedia.org/wiki/CODE_(programming_language)) |
-| CoffeeScript              | | | |
+| CoffeeScript              | CoffeeScript | [Home](http://coffeescript.org)| [Wikipedia](http://wikipedia.org/wiki/CoffeeScript) |
 | ColdFusion                | ColdFusion | | [Wikipedia](http://wikipedia.org/wiki/ColdFusion) |
 | ColdFusion CFC            | | | |
 | colorForth                | ColorForth | | [Wikipedia](http://wikipedia.org/wiki/ColorForth) |
@@ -633,7 +634,7 @@ The original sources of data for this list are [Wikipedia](https://en.wikipedia.
 | Pure Data                 | Pure Data | | [Wikipedia](http://wikipedia.org/wiki/Pure_Data) |
 | PureBasic                 | | | |
 | PureScript                | | | |
-| Python                    | Python | [Home](https://www.python.org) | [Wikipedia](http://wikipedia.org/wiki/Python_(programming_language)) |
+| Python                    | Python | [Home](http://www.python.org) | [Wikipedia](http://wikipedia.org/wiki/Python_(programming_language)) |
 
 #### Q
 
