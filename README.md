@@ -25,7 +25,7 @@ _This list is incomplete._  **You can help improve it!**  Please use pull reques
 | ABAP                      | ABAP | | [Wikipedia](http://wikipedia.org/wiki/ABAP) |
 | ABC                       | ABC | | [Wikipedia](http://wikipedia.org/wiki/ABC_(programming_language)) |
 | ABCL                      | Actor-Based Concurrent Language | | [Wikipedia](http://wikipedia.org/wiki/Actor-Based_Concurrent_Language) |
-| ABEL                      | ABEL | | [Wikipedia](http://wikipedia.org/wiki/Advanced_Boolean_Expression_Language) |
+| ABEL                      | Advanced Boolean Expression Language | | [Wikipedia](http://wikipedia.org/wiki/Advanced_Boolean_Expression_Language) |
 | ActionScript              | ActionScript | | [Wikipedia](http://wikipedia.org/wiki/ActionScript) |
 | Actor                     | Actor | | [Wikipedia](http://wikipedia.org/wiki/Actor_(programming_language)) |
 | Ada                       | Ada | | [Wikipedia](http://wikipedia.org/wiki/Ada_(programming_language)) |
