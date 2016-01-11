@@ -724,7 +724,6 @@ The original sources of data for this list are [Wikipedia](https://en.wikipedia.
 | SPLUS                     | | | |
 | SPSS                      | | | |
 | SQF                       | | | |
-| SQL                       | | | |
 | SQL                       | SQL | | [Wikipedia](http://wikipedia.org/wiki/SQL) |
 | SQLPL                     | | | |
 | SQR                       | | | |
