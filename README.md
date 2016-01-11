@@ -518,7 +518,7 @@ The original sources of data for this list are [Wikipedia](https://en.wikipedia.
 | MTML                      | | | |
 | MUF                       | | | |
 | MultiLisp                 | MultiLisp | | [Wikipedia](http://wikipedia.org/wiki/MultiLisp) |
-| MUMPS                     | MUMPS | | [Wikipedia](http://wikipedia.org/wiki/MUMPS) |
+| MUMPS                     | Massachusetts General Hospital Utility Multi-Programming System | | [Wikipedia](http://wikipedia.org/wiki/MUMPS) |
 | mupad                     | | | |
 | MXML                      | MXML | | [Wikipedia](http://wikipedia.org/wiki/MXML) |
 | Myghty                    | | | |
