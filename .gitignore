@@ -1,0 +1,11 @@
+# -*- mode: gitignore; -*-
+
+# Mac-specific things to ignore:
+
+.DS_Store
+
+# Emacs-specific things to ignore:
+
+*~
+.#*
+.git/COMMIT_EDITMSG
