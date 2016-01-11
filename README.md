@@ -11,6 +11,8 @@ The original sources of data for this list are [Wikipedia](https://en.wikipedia.
 
 *Table of contents*: [#](#names-beginning-with-numbers-or-symbols) | [**A**](#a) | [**B**](#b) | [**C**](#c) | [**D**](#d) | [**E**](#e) | [**F**](#f) | [**G**](#g) | [**H**](#h) | [**I**](#i) | [**J**](#j) | [**K**](#k) | [**L**](#l) | [**M**](#m) | [**N**](#n) | [**O**](#o) | [**P**](#p) | [**Q**](#q) | [**R**](#r) | [**S**](#s) | [**T**](#t) | [**U**](#u) | [**V**](#v) | [**W**](#w) | [**X**](#x) | [**Y**](#y) | [**Z**](#z) |
 
+----
+
 #### (Names beginning with numbers or symbols)
 
 | Name                      | Full name and/or synonym(s) | Home page| Wikipedia page|
