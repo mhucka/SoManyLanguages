@@ -5,6 +5,8 @@ This page is an attempt to provide a concise yet complete list of every known, p
 
 _This list is incomplete._  **You can help improve it!**  Please use pull requests to submit updates and corrections, and use the issue tracker to bring up other problems.
 
+The original sources of data for this list are [Wikipedia](https://en.wikipedia.org/wiki/List_of_programming_languages_by_type), the languages found to exist GitHub repositories examined via [GitHub's API](https://developer.github.com/v3/repos/), and Google searches by the author.
+
 ----
 
 *Table of contents*: [#](#names-beginning-with-numbers-or-symbols) | [**A**](#a) | [**B**](#b) | [**C**](#c) | [**D**](#d) | [**E**](#e) | [**F**](#f) | [**G**](#g) | [**H**](#h) | [**I**](#i) | [**J**](#j) | [**K**](#k) | [**L**](#l) | [**M**](#m) | [**N**](#n) | [**O**](#o) | [**P**](#p) | [**Q**](#q) | [**R**](#r) | [**S**](#s) | [**T**](#t) | [**U**](#u) | [**V**](#v) | [**W**](#w) | [**X**](#x) | [**Y**](#y) | [**Z**](#z) |
