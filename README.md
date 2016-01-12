@@ -5,7 +5,7 @@ This page is an attempt to provide a concise yet complete list of every known, p
 
 _This list is incomplete._  **You can help improve it!**  Please use pull requests to submit updates and corrections, and use the issue tracker to bring up other problems.
 
-The original sources of data for this list are [Wikipedia](http://wikipedia.org/wiki/List_of_programming_languages_by_type), the languages found to exist GitHub repositories examined via [GitHub's API](http://developer.github.com/v3/repos/), and Google searches by the author.
+The original sources of data for this page were [Wikipedia](http://wikipedia.org/wiki/List_of_programming_languages_by_type), the languages found to exist GitHub repositories examined via [GitHub's API](http://developer.github.com/v3/repos/), and web searches by the author.
 
 ----
 
