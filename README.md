@@ -422,7 +422,6 @@ The original sources of data for this page were [Wikipedia](http://wikipedia.org
 | Less                      | | | |
 | Lex                       | Lex | | [Wikipedia](http://wikipedia.org/wiki/Lex_(software)) |
 | Lexico                    | Lexico | | [Wikipedia](http://wikipedia.org/wiki/Lexico_programming_language) |
-| LFE                       | | | |
 | LFE                       | LFE | | [Wikipedia](http://wikipedia.org/wiki/LFE_(programming_language)) |
 | LilyPond                  | | | |
 | Limbo                     | Limbo | | [Wikipedia](http://wikipedia.org/wiki/Limbo_(programming_language)) |
