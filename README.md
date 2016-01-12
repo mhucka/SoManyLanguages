@@ -76,7 +76,6 @@ The original sources of data for this page were [Wikipedia](http://wikipedia.org
 | Avenue                    | | | |
 | Averest                   | Averest | | [Wikipedia](http://wikipedia.org/wiki/Averest) |
 | AWK                       | AWK | | [Wikipedia](http://wikipedia.org/wiki/AWK) |
-| awk                       | Awk | | [Wikipedia](http://wikipedia.org/wiki/Awk) |
 
 #### B
 
