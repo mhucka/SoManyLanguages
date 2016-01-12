@@ -26,9 +26,9 @@ The original sources of data for this page were [Wikipedia](http://wikipedia.org
 | Name                      | Full name and/or synonym(s) | Home page| Wikipedia page|
 |---------------------------|-----------------------------|----------|---------------|
 | A+                        | A+ | [Home](http://www.aplusdev.org) | [Wikipedia](http://wikipedia.org/wiki/A%2B_(programming_language)) |
-| ABAP                      | ABAP | | [Wikipedia](http://wikipedia.org/wiki/ABAP) |
-| ABC                       | ABC | | [Wikipedia](http://wikipedia.org/wiki/ABC_(programming_language)) |
-| ABCL                      | Actor-Based Concurrent Language | | [Wikipedia](http://wikipedia.org/wiki/Actor-Based_Concurrent_Language) |
+| ABAP                      | ABAP | [Home](http://scn.sap.com/community/abap) | [Wikipedia](http://wikipedia.org/wiki/ABAP) |
+| ABC                       | ABC | [Home](http://homepages.cwi.nl/~steven/abc/) | [Wikipedia](http://wikipedia.org/wiki/ABC_(programming_language)) |
+| ABCL                      | Actor-Based Concurrent Language | [Home](http://web.yl.is.s.u-tokyo.ac.jp/pl/abcl.html) | [Wikipedia](http://wikipedia.org/wiki/Actor-Based_Concurrent_Language) |
 | ABEL                      | Advanced Boolean Expression Language | | [Wikipedia](http://wikipedia.org/wiki/Advanced_Boolean_Expression_Language) |
 | ActionScript              | ActionScript | | [Wikipedia](http://wikipedia.org/wiki/ActionScript) |
 | Actor                     | Actor | | [Wikipedia](http://wikipedia.org/wiki/Actor_(programming_language)) |
