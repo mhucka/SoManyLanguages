@@ -90,7 +90,6 @@ The original sources of data for this page were [Wikipedia](http://wikipedia.org
 | bc                        | Bc | | [Wikipedia](http://wikipedia.org/wiki/Bc_(programming_language)) |
 | BCPL                      | BCPL | | [Wikipedia](http://wikipedia.org/wiki/BCPL) |
 | BeanShell                 | BeanShell | [Home](http://www.beanshell.org) | [Wikipedia](http://wikipedia.org/wiki/BeanShell) |
-| Befunge                   | | | |
 | Befunge                   | Befunge | | [Wikipedia](http://wikipedia.org/wiki/Befunge) |
 | BETA                      | BETA | | [Wikipedia](http://wikipedia.org/wiki/BETA_(programming_language)) |
 | Bigwig                    | Bigwig | | [Wikipedia](http://wikipedia.org/wiki/Bigwig_(programming_language)) |
@@ -101,7 +100,6 @@ The original sources of data for this page were [Wikipedia](http://wikipedia.org
 | BlitzBasic                | | | |
 | BlitzMax                  | | | |
 | Blue                      | Blue | | [Wikipedia](http://wikipedia.org/wiki/Blue_(programming_language)) |
-| Bluespec                  | | | |
 | Bluespec                  | Bluespec | | [Wikipedia](http://wikipedia.org/wiki/Bluespec) |
 | Boo                       | Boo | | [Wikipedia](http://wikipedia.org/wiki/Boo_(programming_language)) |
 | Brainfuck                 | Brainfuck | | [Wikipedia](http://wikipedia.org/wiki/Brainfuck) |
@@ -130,9 +128,7 @@ The original sources of data for this page were [Wikipedia](http://wikipedia.org
 | cg                        | | | |
 | Ch                        | Ch | | [Wikipedia](http://wikipedia.org/wiki/Ch_(computer_programming)) |
 | CHAIN                     | CHAIN | | [Wikipedia](http://wikipedia.org/wiki/CHAIN_(programming_language)) |
-| Chapel                    | | | |
 | Chapel                    | Chapel | | [Wikipedia](http://wikipedia.org/wiki/Chapel_(programming_language)) |
-| Charity                   | | | |
 | Charity                   | Charity | | [Wikipedia](http://wikipedia.org/wiki/Charity_(programming_language)) |
 | Charm                     | Charm | | [Wikipedia](http://wikipedia.org/wiki/Charm_(language)) |
 | Chef                      | Chef | | [Wikipedia](http://wikipedia.org/wiki/Chef_(programming_language)) |
@@ -161,7 +157,6 @@ The original sources of data for this page were [Wikipedia](http://wikipedia.org
 | CODE                      | CODE | | [Wikipedia](http://wikipedia.org/wiki/CODE_(programming_language)) |
 | CoffeeScript              | CoffeeScript | [Home](http://coffeescript.org)| [Wikipedia](http://wikipedia.org/wiki/CoffeeScript) |
 | ColdFusion                | ColdFusion | | [Wikipedia](http://wikipedia.org/wiki/ColdFusion) |
-| ColdFusion CFC            | | | |
 | colorForth                | ColorForth | | [Wikipedia](http://wikipedia.org/wiki/ColorForth) |
 | COMAL                     | COMAL | | [Wikipedia](http://wikipedia.org/wiki/COMAL_(programming_language)) |
 | COmega                    | | | |
@@ -205,7 +200,6 @@ The original sources of data for this page were [Wikipedia](http://wikipedia.org
 | DCL                       | DIGITAL Command Language | | [Wikipedia](http://wikipedia.org/wiki/DIGITAL_Command_Language) |
 | Delphi                    | Object Pascal | | [Wikipedia](http://wikipedia.org/wiki/Object_Pascal) |
 | DIBOL                     | DIBOL | | [Wikipedia](http://wikipedia.org/wiki/DIBOL) |
-| DM                        | | | |
 | DM                        | DM (computing) | | [Wikipedia](http://wikipedia.org/wiki/DM_(computing)) |
 | DNS Zone                  | | | |
 | Dockerfile                | | | |
@@ -273,14 +267,12 @@ The original sources of data for this page were [Wikipedia](http://wikipedia.org
 | Formatted                 | | | |
 | Forth                     | Forth | | [Wikipedia](http://wikipedia.org/wiki/Forth_(programming_language)) |
 | FORTRAN                   | FORTRAN | | [Wikipedia](http://wikipedia.org/wiki/FORTRAN) |
-| Fortran                   | Fortran | | [Wikipedia](http://wikipedia.org/wiki/Fortran) |
 | Fortress                  | Fortress | | [Wikipedia](http://wikipedia.org/wiki/Fortress_(programming_language)) |
 | FourthDimension 4D        | | | |
 | FPr                       | FPr | | [Wikipedia](http://wikipedia.org/wiki/FPr_(programming_language)) |
 | Free Pascal               | Free Pascal | | [Wikipedia](http://wikipedia.org/wiki/Free_Pascal) |
 | FreeMarker                | | | |
 | Freemat                   | Freemat | | [Wikipedia](http://wikipedia.org/wiki/Freemat) |
-| Frege                     | | | |
 | Frege                     | Frege | | [Wikipedia](http://wikipedia.org/wiki/Frege_(programming_language)) |
 | Fril                      | Fril | | [Wikipedia](http://wikipedia.org/wiki/Fril) |
 
@@ -343,7 +335,6 @@ The original sources of data for this page were [Wikipedia](http://wikipedia.org
 | HPL                       | | | |
 | HTML                      | | | |
 | Hy                        | | | |
-| HyperTalk                 | | | |
 | HyperTalk                 | HyperTalk | | [Wikipedia](http://wikipedia.org/wiki/HyperTalk) |
 | HyPhy                     | | | |
 
@@ -354,9 +345,7 @@ The original sources of data for this page were [Wikipedia](http://wikipedia.org
 | ICI                       | ICI | | [Wikipedia](http://wikipedia.org/wiki/ICI_(programming_language)) |
 | Icon                      | | | |
 | Icon                      | Icon | | [Wikipedia](http://wikipedia.org/wiki/Icon_(programming_language)) |
-| IDL                       | | | |
 | IDL                       | Interactive Data Language | | [Wikipedia](http://wikipedia.org/wiki/Interactive_Data_Language) |
-| Idris                     | | | |
 | Idris                     | Idris | | [Wikipedia](http://wikipedia.org/wiki/Idris_(programming_language)) |
 | IGOR Pro                  | | | |
 | Impulse C                 | Impulse C | | [Wikipedia](http://wikipedia.org/wiki/Impulse_C) |
@@ -425,7 +414,7 @@ The original sources of data for this page were [Wikipedia](http://wikipedia.org
 | LadderLogic               | | | |
 | Lagoona                   | Lagoona | | [Wikipedia](http://wikipedia.org/wiki/Lagoona_(programming_language)) |
 | Lasso                     | Lasso | | [Wikipedia](http://wikipedia.org/wiki/Lasso_(programming_language)) |
-| LaTeX                     | | | |
+| LaTeX                     | LaTeX | [Home](https://www.latex-project.org) | [Wikipedia](http://wikipedia.org/wiki/LaTeX)|
 | Latte                     | | | |
 | Lava                      | Lava | | [Wikipedia](http://wikipedia.org/wiki/Lava) |
 | Lean                      | | | |
@@ -497,7 +486,6 @@ The original sources of data for this page were [Wikipedia](http://wikipedia.org
 | Metal                     | | | |
 | MetaOCaml                 | MetaOCaml | | [Wikipedia](http://wikipedia.org/wiki/MetaOCaml) |
 | MetaPost                  | MetaPost | | [Wikipedia](http://wikipedia.org/wiki/MetaPost) |
-| MiniD                     | | | |
 | MiniD                     | MiniD | | [Wikipedia](http://wikipedia.org/wiki/MiniD) |
 | MIPS                      | MIPS instruction set | | [Wikipedia](http://wikipedia.org/wiki/MIPS_instruction_set) |
 | Mirah                     | | | |
