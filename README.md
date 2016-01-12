@@ -84,7 +84,7 @@ The original sources of data for this page were [Wikipedia](http://wikipedia.org
 |---------------------------|-----------------------------|----------|---------------|
 | B                         | B | | [Wikipedia](http://wikipedia.org/wiki/B_(programming_language)) |
 | B-Prolog                  | B-Prolog | | [Wikipedia](http://wikipedia.org/wiki/B-Prolog) |
-| Bash                      | Bash (Unix shell) | | [Wikipedia](http://wikipedia.org/wiki/Bash_(Unix_shell)) |
+| Bash                      | Bash (Unix shell) | [Home](https://www.gnu.org/software/bash/) | [Wikipedia](http://wikipedia.org/wiki/Bash_(Unix_shell)) |
 | BASIC                     | BASIC | | [Wikipedia](http://wikipedia.org/wiki/BASIC) |
 | Batch file                | Windows batch language | | [Wikipedia](http://wikipedia.org/wiki/Batch_file) |
 | bc                        | Bc | | [Wikipedia](http://wikipedia.org/wiki/Bc_(programming_language)) |
