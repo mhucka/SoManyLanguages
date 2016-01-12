@@ -1,0 +1,3 @@
+The work of Michael Hucka on this project was funded by the USA National
+Science Foundation, award #1533792.
+
