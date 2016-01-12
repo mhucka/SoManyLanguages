@@ -868,3 +868,8 @@ The original sources of data for this list are [Wikipedia](http://wikipedia.org/
 | Zimpl                     | | | |
 | ZPL                       | ZPL | | [Wikipedia](http://wikipedia.org/wiki/ZPL_(programming_language)) |
 | zsh                       | Z shell | | [Wikipedia](http://wikipedia.org/wiki/Z_shell) |
+
+
+### Licence and Disclaimers
+
+This work is licensed under the [Creative Commons Attribution-ShareAlike 3.0](http://creativecommons.org/licenses/by-sa/3.0/) license.  The contents of this repository are provided under an "as is" basis.  The authors and the California Institute of Technology disclaim any liability for the [SoManyLanguages](https://github.com/mhucka/SoManyLanguages/) project and the contents of this work.
