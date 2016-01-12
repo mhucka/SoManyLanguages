@@ -16,7 +16,7 @@ The original sources of data for this page were [Wikipedia](http://wikipedia.org
 #### (Names beginning with numbers or symbols)
 
 | Name                      | Full name and/or synonym(s) | Home page| Wikipedia page|
-|---------------------------|-----------------------------|----------|---------------|
+|---------------------------|-----------------------------|:--------:|:-------------:|
 | αProlog                   | αProlog | [Home](http://homepages.inf.ed.ac.uk/jcheney/programs/aprolog/) | |
 | λProlog                   | Lambda-Prolog | [Home](http://www.lix.polytechnique.fr/~dale/lProlog/) | [Wikipedia](http://wikipedia.org/wiki/%CE%9BProlog) |
 | 4DOS                      | 4DOS | [Home](http://www.4dos.info) | [Wikipedia](http://wikipedia.org/wiki/4DOS) |
@@ -24,7 +24,7 @@ The original sources of data for this page were [Wikipedia](http://wikipedia.org
 #### A
 
 | Name                      | Full name and/or synonym(s) | Home page| Wikipedia page|
-|---------------------------|-----------------------------|----------|---------------|
+|---------------------------|-----------------------------|:--------:|:-------------:|
 | A+                        | A+ | [Home](http://www.aplusdev.org) | [Wikipedia](http://wikipedia.org/wiki/A%2B_(programming_language)) |
 | ABAP                      | ABAP | [Home](http://scn.sap.com/community/abap) | [Wikipedia](http://wikipedia.org/wiki/ABAP) |
 | ABC                       | ABC | [Home](http://homepages.cwi.nl/~steven/abc/) | [Wikipedia](http://wikipedia.org/wiki/ABC_(programming_language)) |
@@ -80,7 +80,7 @@ The original sources of data for this page were [Wikipedia](http://wikipedia.org
 #### B
 
 | Name                      | Full name and/or synonym(s) | Home page| Wikipedia page|
-|---------------------------|-----------------------------|----------|---------------|
+|---------------------------|-----------------------------|:--------:|:-------------:|
 | B                         | B | | [Wikipedia](http://wikipedia.org/wiki/B_(programming_language)) |
 | B-Prolog                  | B-Prolog | | [Wikipedia](http://wikipedia.org/wiki/B-Prolog) |
 | Bash                      | Bash (Unix shell) | [Home](https://www.gnu.org/software/bash/) | [Wikipedia](http://wikipedia.org/wiki/Bash_(Unix_shell)) |
@@ -108,7 +108,7 @@ The original sources of data for this page were [Wikipedia](http://wikipedia.org
 #### C
 
 | Name                      | Full name and/or synonym(s) | Home page| Wikipedia page|
-|---------------------------|-----------------------------|----------|---------------|
+|---------------------------|-----------------------------|:--------:|:-------------:|
 | C                         | C | | [Wikipedia](http://wikipedia.org/wiki/C_(programming_language)) |
 | C#                        | C Sharp | | [Wikipedia](http://wikipedia.org/wiki/C_Sharp_(programming_language)) |
 | C++                       | C++ | | [Wikipedia](http://wikipedia.org/wiki/C%2B%2B) |
@@ -188,7 +188,7 @@ The original sources of data for this page were [Wikipedia](http://wikipedia.org
 #### D
 
 | Name                      | Full name and/or synonym(s) | Home page| Wikipedia page|
-|---------------------------|-----------------------------|----------|---------------|
+|---------------------------|-----------------------------|:--------:|:-------------:|
 | D                         | D | | [Wikipedia](http://wikipedia.org/wiki/D_(programming_language)) |
 | D-ObjDump                 | | | |
 | Darcs Patch               | | | |
@@ -211,7 +211,7 @@ The original sources of data for this page were [Wikipedia](http://wikipedia.org
 #### E
 
 | Name                      | Full name and/or synonym(s) | Home page| Wikipedia page|
-|---------------------------|-----------------------------|----------|---------------|
+|---------------------------|-----------------------------|:--------:|:-------------:|
 | E                         | E | | [Wikipedia](http://wikipedia.org/wiki/E_(programming_language)) |
 | E4X                       | ECMAScript for XML | | [Wikipedia](http://wikipedia.org/wiki/ECMAScript_for_XML) |
 | Eagle                     | | | |
@@ -247,7 +247,7 @@ The original sources of data for this page were [Wikipedia](http://wikipedia.org
 #### F
 
 | Name                      | Full name and/or synonym(s) | Home page| Wikipedia page|
-|---------------------------|-----------------------------|----------|---------------|
+|---------------------------|-----------------------------|:--------:|:-------------:|
 | F                         | F | | [Wikipedia](http://wikipedia.org/wiki/F_(programming_language)) |
 | F#                        | F Sharp | | [Wikipedia](http://wikipedia.org/wiki/F_Sharp_(programming_language)) |
 | F-Script                  | F-Script | | [Wikipedia](http://wikipedia.org/wiki/F-Script_(programming_language)) |
@@ -278,7 +278,7 @@ The original sources of data for this page were [Wikipedia](http://wikipedia.org
 #### G
 
 | Name                      | Full name and/or synonym(s) | Home page| Wikipedia page|
-|---------------------------|-----------------------------|----------|---------------|
+|---------------------------|-----------------------------|:--------:|:-------------:|
 | G                         | G (LabVIEW) | | [Wikipedia](http://wikipedia.org/wiki/LabVIEW) |
 | G-code                    | | | |
 | Gambas                    | Gambas | | [Wikipedia](http://wikipedia.org/wiki/Gambas) |
@@ -317,7 +317,7 @@ The original sources of data for this page were [Wikipedia](http://wikipedia.org
 #### H
 
 | Name                      | Full name and/or synonym(s) | Home page| Wikipedia page|
-|---------------------------|-----------------------------|----------|---------------|
+|---------------------------|-----------------------------|:--------:|:-------------:|
 | Hack                      | | | |
 | Hamilton C shell          | Hamilton C shell | | [Wikipedia](http://wikipedia.org/wiki/Hamilton_C_shell) |
 | Haml                      | | | |
@@ -340,7 +340,7 @@ The original sources of data for this page were [Wikipedia](http://wikipedia.org
 #### I
 
 | Name                      | Full name and/or synonym(s) | Home page| Wikipedia page|
-|---------------------------|-----------------------------|----------|---------------|
+|---------------------------|-----------------------------|:--------:|:-------------:|
 | ICI                       | ICI | | [Wikipedia](http://wikipedia.org/wiki/ICI_(programming_language)) |
 | Icon                      | | | |
 | Icon                      | Icon | | [Wikipedia](http://wikipedia.org/wiki/Icon_(programming_language)) |
@@ -363,7 +363,7 @@ The original sources of data for this page were [Wikipedia](http://wikipedia.org
 #### J
 
 | Name                      | Full name and/or synonym(s) | Home page| Wikipedia page|
-|---------------------------|-----------------------------|----------|---------------|
+|---------------------------|-----------------------------|:--------:|:-------------:|
 | J                         | J | | [Wikipedia](http://wikipedia.org/wiki/J_(programming_language)) |
 | J#                        | | | |
 | Jade                      | | | |
@@ -395,7 +395,7 @@ The original sources of data for this page were [Wikipedia](http://wikipedia.org
 #### K
 
 | Name                      | Full name and/or synonym(s) | Home page| Wikipedia page|
-|---------------------------|-----------------------------|----------|---------------|
+|---------------------------|-----------------------------|:--------:|:-------------:|
 | K                         | K | | [Wikipedia](http://wikipedia.org/wiki/K_(programming_language)) |
 | KiCad                     | | | |
 | Kit                       | | | |
@@ -408,7 +408,7 @@ The original sources of data for this page were [Wikipedia](http://wikipedia.org
 #### L
 
 | Name                      | Full name and/or synonym(s) | Home page| Wikipedia page|
-|---------------------------|-----------------------------|----------|---------------|
+|---------------------------|-----------------------------|:--------:|:-------------:|
 | LabVIEW                   | LabVIEW | | [Wikipedia](http://wikipedia.org/wiki/LabVIEW) |
 | LadderLogic               | | | |
 | Lagoona                   | Lagoona | | [Wikipedia](http://wikipedia.org/wiki/Lagoona_(programming_language)) |
@@ -457,7 +457,7 @@ The original sources of data for this page were [Wikipedia](http://wikipedia.org
 #### M
 
 | Name                      | Full name and/or synonym(s) | Home page| Wikipedia page|
-|---------------------------|-----------------------------|----------|---------------|
+|---------------------------|-----------------------------|:--------:|:-------------:|
 | M                         | M | | [Wikipedia](http://wikipedia.org/wiki/M) |
 | M4                        | M4 (computer language) | | [Wikipedia](http://wikipedia.org/wiki/M4_(computer_language)) |
 | MAD                       | | | |
@@ -514,7 +514,7 @@ The original sources of data for this page were [Wikipedia](http://wikipedia.org
 #### N
 
 | Name                      | Full name and/or synonym(s) | Home page| Wikipedia page|
-|---------------------------|-----------------------------|----------|---------------|
+|---------------------------|-----------------------------|:--------:|:-------------:|
 | NATURAL                   | | | |
 | NCL                       | | | |
 | Nemerle                   | Nemerle | | [Wikipedia](http://wikipedia.org/wiki/Nemerle) |
@@ -541,7 +541,7 @@ The original sources of data for this page were [Wikipedia](http://wikipedia.org
 #### O
 
 | Name                      | Full name and/or synonym(s) | Home page| Wikipedia page|
-|---------------------------|-----------------------------|----------|---------------|
+|---------------------------|-----------------------------|:--------:|:-------------:|
 | Oberon                    | Oberon | | [Wikipedia](http://wikipedia.org/wiki/Oberon_(programming_language)) |
 | ObjDump                   | | | |
 | Object Pascal             | Object Pascal | | [Wikipedia](http://wikipedia.org/wiki/Object_Pascal) |
@@ -576,7 +576,7 @@ The original sources of data for this page were [Wikipedia](http://wikipedia.org
 #### P
 
 | Name                      | Full name and/or synonym(s) | Home page| Wikipedia page|
-|---------------------------|-----------------------------|----------|---------------|
+|---------------------------|-----------------------------|:--------:|:-------------:|
 | PALASM                    | PALASM | | [Wikipedia](http://wikipedia.org/wiki/PALASM) |
 | Pan                       | | | |
 | Papyrus                   | | | |
@@ -625,7 +625,7 @@ The original sources of data for this page were [Wikipedia](http://wikipedia.org
 #### Q
 
 | Name                      | Full name and/or synonym(s) | Home page| Wikipedia page|
-|---------------------------|-----------------------------|----------|---------------|
+|---------------------------|-----------------------------|:--------:|:-------------:|
 | Q                         | Q (Kx Systems) | | [Wikipedia](http://wikipedia.org/wiki/Q_(programming_language_from_Kx_Systems)) |
 | QMake                     | | | |
 | QML                       | | | |
@@ -634,7 +634,7 @@ The original sources of data for this page were [Wikipedia](http://wikipedia.org
 #### R
 
 | Name                      | Full name and/or synonym(s) | Home page| Wikipedia page|
-|---------------------------|-----------------------------|----------|---------------|
+|---------------------------|-----------------------------|:--------:|:-------------:|
 | R                         | R | | [Wikipedia](http://wikipedia.org/wiki/R_(programming_language)) |
 | Racket                    | Racket | | [Wikipedia](http://wikipedia.org/wiki/Racket_(programming_language)) |
 | Ragel                     | | | |
@@ -668,7 +668,7 @@ The original sources of data for this page were [Wikipedia](http://wikipedia.org
 #### S
 
 | Name                      | Full name and/or synonym(s) | Home page| Wikipedia page|
-|---------------------------|-----------------------------|----------|---------------|
+|---------------------------|-----------------------------|:--------:|:-------------:|
 | S                         | S | | [Wikipedia](http://wikipedia.org/wiki/S_(programming_language)) |
 | S-Lang                    | S-Lang (programming library) | | [Wikipedia](http://wikipedia.org/wiki/S-Lang_(programming_library)) |
 | Sage                      | | | |
@@ -735,7 +735,7 @@ The original sources of data for this page were [Wikipedia](http://wikipedia.org
 #### T
 
 | Name                      | Full name and/or synonym(s) | Home page| Wikipedia page|
-|---------------------------|-----------------------------|----------|---------------|
+|---------------------------|-----------------------------|:--------:|:-------------:|
 | TACL                      | Tandem Advanced Command Language | | [Wikipedia](http://wikipedia.org/wiki/TACL) |
 | TADS                      | TADS | | [Wikipedia](http://wikipedia.org/wiki/TADS) |
 | Tcl                       | Tcl | | [Wikipedia](http://wikipedia.org/wiki/Tcl) |
@@ -763,7 +763,7 @@ The original sources of data for this page were [Wikipedia](http://wikipedia.org
 #### U
 
 | Name                      | Full name and/or synonym(s) | Home page| Wikipedia page|
-|---------------------------|-----------------------------|----------|---------------|
+|---------------------------|-----------------------------|:--------:|:-------------:|
 | Ubercode                  | Ubercode | | [Wikipedia](http://wikipedia.org/wiki/Ubercode) |
 | Uniface                   | Uniface | | [Wikipedia](http://wikipedia.org/wiki/Uniface_(programming_language)) |
 | Unified Parallel C        | Unified Parallel C | | [Wikipedia](http://wikipedia.org/wiki/Unified_Parallel_C) |
@@ -773,7 +773,7 @@ The original sources of data for this page were [Wikipedia](http://wikipedia.org
 #### V
 
 | Name                      | Full name and/or synonym(s) | Home page| Wikipedia page|
-|---------------------------|-----------------------------|----------|---------------|
+|---------------------------|-----------------------------|:--------:|:-------------:|
 | Vala                      | Vala | | [Wikipedia](http://wikipedia.org/wiki/Vala_(programming_language)) |
 | VBA                       | Visual Basic for Applications | | [Wikipedia](http://wikipedia.org/wiki/Visual_Basic_for_Applications) |
 | VBScript                  | VBScript | | [Wikipedia](http://wikipedia.org/wiki/VBScript) |
@@ -800,7 +800,7 @@ The original sources of data for this page were [Wikipedia](http://wikipedia.org
 #### W
 
 | Name                      | Full name and/or synonym(s) | Home page| Wikipedia page|
-|---------------------------|-----------------------------|----------|---------------|
+|---------------------------|-----------------------------|:--------:|:-------------:|
 | WebDNA                    | WebDNA | | [Wikipedia](http://wikipedia.org/wiki/WebDNA) |
 | WebIDL                    | | | |
 | WebMethods Flow           | WebMethods Flow | | [Wikipedia](http://wikipedia.org/wiki/WebMethods_Flow) |
@@ -814,7 +814,7 @@ The original sources of data for this page were [Wikipedia](http://wikipedia.org
 #### X
 
 | Name                      | Full name and/or synonym(s) | Home page| Wikipedia page|
-|---------------------------|-----------------------------|----------|---------------|
+|---------------------------|-----------------------------|:--------:|:-------------:|
 | X#                        | X Sharp | | [Wikipedia](http://wikipedia.org/wiki/X_Sharp_(programming_language)) |
 | X++                       | Microsoft Dynamics AX | | [Wikipedia](http://wikipedia.org/wiki/Microsoft_Dynamics_AX) |
 | X10                       | X10 | | [Wikipedia](http://wikipedia.org/wiki/X10_(programming_language)) |
@@ -840,7 +840,7 @@ The original sources of data for this page were [Wikipedia](http://wikipedia.org
 #### Y
 
 | Name                      | Full name and/or synonym(s) | Home page| Wikipedia page|
-|---------------------------|-----------------------------|----------|---------------|
+|---------------------------|-----------------------------|:--------:|:-------------:|
 | yacc                      | Yacc | | [Wikipedia](http://wikipedia.org/wiki/Yacc) |
 | YAML                      | | | |
 | Yorick                    | Yorick | | [Wikipedia](http://wikipedia.org/wiki/Yorick_(programming_language)) |
@@ -848,7 +848,7 @@ The original sources of data for this page were [Wikipedia](http://wikipedia.org
 #### Z
 
 | Name                      | Full name and/or synonym(s) | Home page| Wikipedia page|
-|---------------------------|-----------------------------|----------|---------------|
+|---------------------------|-----------------------------|:--------:|:-------------:|
 | Z++                       | Z++ | | [Wikipedia](http://wikipedia.org/wiki/Z%2B%2B) |
 | Zephir                    | | | |
 | Zimpl                     | | | |
