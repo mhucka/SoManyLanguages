@@ -830,7 +830,6 @@ The original sources of data for this page were [Wikipedia](http://wikipedia.org
 | XPages                    | | | |
 | XPath                     | XPath | | [Wikipedia](http://wikipedia.org/wiki/XPath) |
 | XPL                       | | | |
-| XProc                     | | | |
 | XProc                     | XProc | | [Wikipedia](http://wikipedia.org/wiki/XProc) |
 | XQuery                    | XQuery | | [Wikipedia](http://wikipedia.org/wiki/XQuery) |
 | XS                        | | | |
