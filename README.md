@@ -344,7 +344,6 @@ The original sources of data for this page were [Wikipedia](http://wikipedia.org
 | Name                      | Full name and/or synonym(s) | Home page| Wikipedia page|
 |---------------------------|-----------------------------|:--------:|:-------------:|
 | ICI                       | ICI | | [Wikipedia](http://wikipedia.org/wiki/ICI_(programming_language)) |
-| Icon                      | | | |
 | Icon                      | Icon | | [Wikipedia](http://wikipedia.org/wiki/Icon_(programming_language)) |
 | IDL                       | Interactive Data Language | | [Wikipedia](http://wikipedia.org/wiki/Interactive_Data_Language) |
 | Idris                     | Idris | | [Wikipedia](http://wikipedia.org/wiki/Idris_(programming_language)) |
