@@ -164,6 +164,7 @@ The original sources of data for this page were [Wikipedia](http://wikipedia.org
 | COmega                    | | | |
 | Comet                     | Comet | | [Wikipedia](http://wikipedia.org/wiki/Comet_(programming_language)) |
 | Common Lisp               | Common Lisp | | [Wikipedia](http://wikipedia.org/wiki/Common_Lisp) |
+| Commodore BASIC			| Commodore BASIC | | [Wikipedia](http://wikipedia.org/wiki/Commodore_BASIC) |
 | Component Pascal          | Component Pascal | | [Wikipedia](http://wikipedia.org/wiki/Component_Pascal) |
 | Concurrent Pascal         | Concurrent Pascal | | [Wikipedia](http://wikipedia.org/wiki/Concurrent_Pascal) |
 | Confluence                | Confluence | | [Wikipedia](http://wikipedia.org/wiki/Confluence) |
