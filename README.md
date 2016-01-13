@@ -3,7 +3,7 @@ So Many Languages!
 
 This page is an attempt to provide a concise yet complete list of every known, publicly-released, higher-level programming language.  It excludes [machine languages](http://wikipedia.org/wiki/Machine_code) and efforts that are unknown outside of their developers (e.g., pet projects,  conceptual projects that never evolve into concrete implementations, and so on).
 
-_This list is incomplete._  **You can easily help improve it!**  Using [GitHub's simple fork/pull/propose changes facility](https://help.github.com/articles/editing-files-in-another-user-s-repository/), it's as easy as clicking on the edit button for this file and updating a row in this table.  Or, you can use the [issue tracker](https://github.com/mhucka/SoManyLanguages/issues) to bring up other matters.
+_This list is incomplete._  **You can easily help improve it and get credit for doing so!**  Using [GitHub's simple fork/pull/propose changes facility](https://help.github.com/articles/editing-files-in-another-user-s-repository/), it's as easy as clicking on the edit button for this file and updating a row in this table.  Or, you can use the [issue tracker](https://github.com/mhucka/SoManyLanguages/issues) to bring up other matters.
 
 The original sources of data for this page were [Wikipedia](http://wikipedia.org/wiki/List_of_programming_languages_by_type), the languages found to exist GitHub repositories examined via [GitHub's API](http://developer.github.com/v3/repos/), and web searches.
 
