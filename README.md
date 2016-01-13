@@ -35,7 +35,7 @@ The original sources of data for this page were [Wikipedia](http://wikipedia.org
 | ActionScript              | ActionScript | | [Wikipedia](http://wikipedia.org/wiki/ActionScript) |
 | Actor                     | Actor | | [Wikipedia](http://wikipedia.org/wiki/Actor_(programming_language)) |
 | Ada                       | Ada | | [Wikipedia](http://wikipedia.org/wiki/Ada_(programming_language)) |
-| Agda                      | | | |
+| Agda                      | Agda | [Home](http://wiki.portal.chalmers.se/agda/pmwiki.php) | [Wikipedia](https://en.wikipedia.org/wiki/Agda_(programming_language)) |
 | Agora                     | Agora | | [Wikipedia](http://wikipedia.org/wiki/Agora_(programming_language)) |
 | AGS Script                | | | |
 | AHDL                      | Altera Hardware Description Language | | [Wikipedia](http://wikipedia.org/wiki/Altera_Hardware_Description_Language) |
