@@ -7,6 +7,8 @@ _This list is incomplete._  **You can easily help improve it and get credit for 
 
 The original sources of data for this page were [Wikipedia](http://wikipedia.org/wiki/List_of_programming_languages_by_type), the languages found to exist GitHub repositories examined via [GitHub's API](http://developer.github.com/v3/repos/), and web searches.
 
+[![Badge status](https://img.shields.io/badge/badge_status-has_badge-brightgreen.png?style=flat-square)](http://shields.io)
+
 ----
 
 *Table of contents*: [#](#names-beginning-with-numbers-or-symbols) | [**A**](#a) | [**B**](#b) | [**C**](#c) | [**D**](#d) | [**E**](#e) | [**F**](#f) | [**G**](#g) | [**H**](#h) | [**I**](#i) | [**J**](#j) | [**K**](#k) | [**L**](#l) | [**M**](#m) | [**N**](#n) | [**O**](#o) | [**P**](#p) | [**Q**](#q) | [**R**](#r) | [**S**](#s) | [**T**](#t) | [**U**](#u) | [**V**](#v) | [**W**](#w) | [**X**](#x) | [**Y**](#y) | [**Z**](#z) |
