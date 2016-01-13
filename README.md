@@ -741,7 +741,6 @@ The original sources of data for this page were [Wikipedia](http://wikipedia.org
 | TADS                      | TADS | | [Wikipedia](http://wikipedia.org/wiki/TADS) |
 | Tcl                       | Tcl | | [Wikipedia](http://wikipedia.org/wiki/Tcl) |
 | tcsh                      | Tcsh | | [Wikipedia](http://wikipedia.org/wiki/Tcsh) |
-| Tea                       | | | |
 | Tea                       | Tea | | [Wikipedia](http://wikipedia.org/wiki/Tea_(programming_language)) |
 | TeX                       | | | |
 | Textile                   | | | |
