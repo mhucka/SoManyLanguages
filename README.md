@@ -7,7 +7,7 @@ _This list is incomplete._  **You can easily help improve it and get credit for 
 
 The original sources of data for this page were [Wikipedia](http://wikipedia.org/wiki/List_of_programming_languages_by_type), the languages found to exist GitHub repositories examined via [GitHub's API](http://developer.github.com/v3/repos/), and web searches.
 
-[![Badge status](https://img.shields.io/badge/badge_status-has_badge-brightgreen.png?style=flat-square)](http://shields.io)
+[![Badge status](https://img.shields.io/badge/badge_status-has_badge-brightgreen.svg?style=flat-square)](http://shields.io)
 
 ----
 
