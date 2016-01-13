@@ -349,7 +349,7 @@ The original sources of data for this page were [Wikipedia](http://wikipedia.org
 | Icon                      | Icon | | [Wikipedia](http://wikipedia.org/wiki/Icon_(programming_language)) |
 | IDL                       | Interactive Data Language | | [Wikipedia](http://wikipedia.org/wiki/Interactive_Data_Language) |
 | Idris                     | Idris | | [Wikipedia](http://wikipedia.org/wiki/Idris_(programming_language)) |
-| IGOR Pro                  | | | |
+| IGOR Pro                  | | | [Wikipedia](http://en.wikipedia.org/wiki/IGOR_Pro) |
 | Impulse C                 | Impulse C | | [Wikipedia](http://wikipedia.org/wiki/Impulse_C) |
 | Inform                    | | | |
 | Informix-4GL              | IBM Informix-4GL | | [Wikipedia](http://wikipedia.org/wiki/IBM_Informix-4GL) |
