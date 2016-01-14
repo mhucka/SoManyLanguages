@@ -54,8 +54,8 @@ The original sources of data for this page were [Wikipedia](http://wikipedia.org
 | AngelScript               | AngelScript | | [Wikipedia](http://wikipedia.org/wiki/AngelScript) |
 | Ant                       | Apache Ant | [Home](http://ant.apache.org) | [Wikipedia](http://wikipedia.org/wiki/Apache_Ant) |
 | ANTLR                     | ANTLR | | [Wikipedia](http://wikipedia.org/wiki/ANTLR) |
-| ApacheConf                | | | |
-| Apex                      | | | |
+| ApacheConf                | Apache Configuration File | [Home](http://httpd.apache.org/docs/) | [Wikipedia](https://en.wikipedia.org/wiki/Apache_HTTP_Server) |
+| Apex                      | Apex | [Home](https://developer.salesforce.com/page/Apex) | |
 | API Blueprint             | | | |
 | APL                       | APL | | [Wikipedia](http://wikipedia.org/wiki/APL_(programming_language)) |
 | AppleScript               | AppleScript | [Home](http://developer.apple.com/library/mac/documentation/AppleScript/Conceptual/AppleScriptLangGuide/introduction/ASLR_intro.html)| [Wikipedia](http://wikipedia.org/wiki/AppleScript) |
