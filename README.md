@@ -186,7 +186,7 @@ The original sources of data for this page were [Wikipedia](http://wikipedia.org
 | Curry                     | Curry | | [Wikipedia](http://wikipedia.org/wiki/Curry_(programming_language)) |
 | Cyclone                   | Cyclone | | [Wikipedia](http://wikipedia.org/wiki/Cyclone_(programming_language)) |
 | Cycript                   | | | |
-| Cython                    | | | |
+| Cython                    | | [Home](http://cython.org/) | [Wikipedia](https://en.wikipedia.org/wiki/Cython) |
 | Cω                        | Cω | | [Wikipedia](http://wikipedia.org/wiki/C%CF%89) |
 
 #### D
