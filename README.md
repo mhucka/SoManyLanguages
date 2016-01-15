@@ -11,7 +11,7 @@ The original sources of data for this page were [Wikipedia](http://wikipedia.org
 
 ----
 
-*Table of contents*: [#](#names-beginning-with-numbers-or-symbols) | [**A**](#a) | [**B**](#b) | [**C**](#c) | [**D**](#d) | [**E**](#e) | [**F**](#f) | [**G**](#g) | [**H**](#h) | [**I**](#i) | [**J**](#j) | [**K**](#k) | [**L**](#l) | [**M**](#m) | [**N**](#n) | [**O**](#o) | [**P**](#p) | [**Q**](#q) | [**R**](#r) | [**S**](#s) | [**T**](#t) | [**U**](#u) | [**V**](#v) | [**W**](#w) | [**X**](#x) | [**Y**](#y) | [**Z**](#z) |
+*Table of contents*: [#](#names-beginning-with-numbers-or-symbols) | [**A**](#a) | [**B**](#b) | [**C**](#c) | [**D**](#d) | [**E**](#e) | [**F**](#f) | [**G**](#g) | [**H**](#h) | [**I**](#i) | [**J**](#j) | [**K**](#k) | [**L**](#l) | [**M**](#m) | [**N**](#n) | [**O**](#o) | [**P**](#p) | [**Q**](#q) | [**R**](#r) | [**S**](#s) | [**T**](#t) | [**U**](#u) | [**V**](#v) | [**W**](#w) | [**X**](#x) | [**Y**](#y) | [**Z**](#z)
 
 ----
 
@@ -19,7 +19,7 @@ The original sources of data for this page were [Wikipedia](http://wikipedia.org
 
 | Name                      | Full name and/or synonym(s) | Home page| Wikipedia page|
 |---------------------------|-----------------------------|:--------:|:-------------:|
-| αProlog                   | αProlog | [Home](http://homepages.inf.ed.ac.uk/jcheney/programs/aprolog/) | |
+| αProlog                   | αProlog | [Home](http://homepages.inf.ed.ac.uk/jcheney/programs/aprolog/) | &mdash; |
 | λProlog                   | Lambda-Prolog | [Home](http://www.lix.polytechnique.fr/~dale/lProlog/) | [Wikipedia](http://wikipedia.org/wiki/%CE%9BProlog) |
 | 4DOS                      | 4DOS | [Home](http://www.4dos.info) | [Wikipedia](http://wikipedia.org/wiki/4DOS) |
 
