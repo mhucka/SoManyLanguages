@@ -83,7 +83,7 @@ The original sources of data for this page were [Wikipedia](http://wikipedia.org
 
 | Name                      | Full name and/or synonym(s) | Home page| Wikipedia page|
 |---------------------------|-----------------------------|:--------:|:-------------:|
-| B                         | B | | [Wikipedia](http://wikipedia.org/wiki/B_(programming_language)) |
+| B                         | B | [Home](https://www.bell-labs.com/usr/dmr/www/bintro.html) | [Wikipedia](http://wikipedia.org/wiki/B_(programming_language)) |
 | B-Prolog                  | B-Prolog | | [Wikipedia](http://wikipedia.org/wiki/B-Prolog) |
 | Bash                      | Bash (Unix shell) | [Home](https://www.gnu.org/software/bash/) | [Wikipedia](http://wikipedia.org/wiki/Bash_(Unix_shell)) |
 | BASIC                     | BASIC | | [Wikipedia](http://wikipedia.org/wiki/BASIC) |
