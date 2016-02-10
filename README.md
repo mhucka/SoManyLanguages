@@ -115,6 +115,7 @@ The original sources of data for this page were [Wikipedia](http://wikipedia.org
 | C                         | C | | [Wikipedia](http://wikipedia.org/wiki/C_(programming_language)) |
 | C#                        | C Sharp | | [Wikipedia](http://wikipedia.org/wiki/C_Sharp_(programming_language)) |
 | C++                       | C++ | | [Wikipedia](http://wikipedia.org/wiki/C%2B%2B) |
+| C--                       | C-- | [Home](http://www.cs.tufts.edu/~nr/c--/index.html) | [Wikipedia](https://en.wikipedia.org/wiki/C--) |
 | C-ObjDump                 | | | |
 | C/AL                      | C/AL | | [Wikipedia](http://wikipedia.org/wiki/C/AL) |
 | C2hs Haskell              | | | |
