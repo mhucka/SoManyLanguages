@@ -712,6 +712,7 @@ The original sources of data for this page were [Wikipedia](http://wikipedia.org
 | SPARK                     | | | |
 | SPARQL                    | SPARQL | | [Wikipedia](http://wikipedia.org/wiki/SPARQL) |
 | Spin                      | Parallax Propeller | | [Wikipedia](http://wikipedia.org/wiki/Parallax_Propeller) |
+| Split-C                   | | [Home](http://www.eecs.berkeley.edu/Research/Projects/CS/parallel/castle/split-c/) | [Wikipedia](https://en.wikipedia.org/wiki/Split-C) |
 | SPLUS                     | | | |
 | SPSS                      | | | |
 | SQF                       | | | |
