@@ -32,10 +32,12 @@ The original sources of data for this page were [Wikipedia](http://wikipedia.org
 | ABC                       | ABC | [Home](http://homepages.cwi.nl/~steven/abc/) | [Wikipedia](http://wikipedia.org/wiki/ABC_(programming_language)) |
 | ABCL                      | Actor-Based Concurrent Language | [Home](http://web.yl.is.s.u-tokyo.ac.jp/pl/abcl.html) | [Wikipedia](http://wikipedia.org/wiki/Actor-Based_Concurrent_Language) |
 | ABEL                      | Advanced Boolean Expression Language | | [Wikipedia](http://wikipedia.org/wiki/Advanced_Boolean_Expression_Language) |
+| ABNF                      | Augmented Backus–Naur Form | | [Wikipedia](https://en.wikipedia.org/wiki/Augmented_Backus–Naur_Form) |
 | ActionScript              | ActionScript | | [Wikipedia](http://wikipedia.org/wiki/ActionScript) |
 | Actor                     | Actor | | [Wikipedia](http://wikipedia.org/wiki/Actor_(programming_language)) |
 | Ada                       | Ada | | [Wikipedia](http://wikipedia.org/wiki/Ada_(programming_language)) |
 | Agda                      | Agda | [Home](http://wiki.portal.chalmers.se/agda/pmwiki.php) | [Wikipedia](https://en.wikipedia.org/wiki/Agda_(programming_language)) |
+| ADL                       | Archetype Definition Language | [Home](http://www.openehr.org/downloads/ADLworkbench/learning_about) | [Wikipedia](https://en.wikipedia.org/wiki/OpenEHR) |
 | Agora                     | Agora | | [Wikipedia](http://wikipedia.org/wiki/Agora_(programming_language)) |
 | AGS Script                | Adventure Game Studio Script | | |
 | AHDL                      | Altera Hardware Description Language | | [Wikipedia](http://wikipedia.org/wiki/Altera_Hardware_Description_Language) |
@@ -49,6 +51,7 @@ The original sources of data for this page were [Wikipedia](http://wikipedia.org
 | Alloy                     | | | |
 | Alma-0                    | Alma-0 | | [Wikipedia](http://wikipedia.org/wiki/Alma-0) |
 | Alphard                   | Alphard | | [Wikipedia](http://wikipedia.org/wiki/Alphard_(programming_language)) |
+| AmbientTalk               | AmbientTalk | [Home](http://soft.vub.ac.be/amop/) | [Wikipedia](https://en.wikipedia.org/wiki/AmbientTalk) |
 | AMPL                      | AMPL | | [Wikipedia](http://wikipedia.org/wiki/AMPL_(programming_language)) |
 | Analytica                 | Analytica | | [Wikipedia](http://wikipedia.org/wiki/Analytica_(software)) |
 | AngelScript               | AngelScript | | [Wikipedia](http://wikipedia.org/wiki/AngelScript) |
@@ -58,6 +61,7 @@ The original sources of data for this page were [Wikipedia](http://wikipedia.org
 | Apex                      | Apex | [Home](https://developer.salesforce.com/page/Apex) | |
 | API Blueprint             | | | |
 | APL                       | APL | | [Wikipedia](http://wikipedia.org/wiki/APL_(programming_language)) |
+| ActionScript              | ActionScript | [Home](http://www.adobe.com/devnet/actionscript.html) | [Wikipedia](https://en.wikipedia.org/wiki/ActionScript) |
 | AppleScript               | AppleScript | [Home](http://developer.apple.com/library/mac/documentation/AppleScript/Conceptual/AppleScriptLangGuide/introduction/ASLR_intro.html)| [Wikipedia](http://wikipedia.org/wiki/AppleScript) |
 | Arc                       | Arc | | [Wikipedia](http://wikipedia.org/wiki/Arc_(programming_language)) |
 | Arduino                   | | | |
@@ -67,6 +71,7 @@ The original sources of data for this page were [Wikipedia](http://wikipedia.org
 | AsciiDoc                  | AsciiDoc | [Home](http://asciidoc.org) | [Wikipedia](http://wikipedia.org/wiki/AsciiDoc) |
 | ASP                       | | | |
 | AspectJ                   | | | |
+| Asymptote                 | Asymptote | [Home](http://asymptote.sourceforge.net) | [Wikipedia](https://en.wikipedia.org/wiki/Asymptote_(vector_graphics_language)) |
 | Ateji PX                  | Ateji PX | | [Wikipedia](http://wikipedia.org/wiki/Ateji_PX) |
 | ATLAS                     | | | |
 | ATS                       | ATS | | [Wikipedia](http://wikipedia.org/wiki/ATS_(programming_language)) |
