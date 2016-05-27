@@ -33,7 +33,7 @@ The original sources of data for this page were [Wikipedia](http://wikipedia.org
 | ABCL                      | Actor-Based Concurrent Language | [Home](http://web.yl.is.s.u-tokyo.ac.jp/pl/abcl.html) | [Wikipedia](http://wikipedia.org/wiki/Actor-Based_Concurrent_Language) |
 | ABEL                      | Advanced Boolean Expression Language | | [Wikipedia](http://wikipedia.org/wiki/Advanced_Boolean_Expression_Language) |
 | ABNF                      | Augmented Backus–Naur Form | | [Wikipedia](https://en.wikipedia.org/wiki/Augmented_Backus–Naur_Form) |
-| ActionScript              | ActionScript | | [Wikipedia](http://wikipedia.org/wiki/ActionScript) |
+| ActionScript              | ActionScript | [Home](http://www.adobe.com/devnet/actionscript.html) | [Wikipedia](http://wikipedia.org/wiki/ActionScript) |
 | Actor                     | Actor | | [Wikipedia](http://wikipedia.org/wiki/Actor_(programming_language)) |
 | Ada                       | Ada | | [Wikipedia](http://wikipedia.org/wiki/Ada_(programming_language)) |
 | Agda                      | Agda | [Home](http://wiki.portal.chalmers.se/agda/pmwiki.php) | [Wikipedia](https://en.wikipedia.org/wiki/Agda_(programming_language)) |
