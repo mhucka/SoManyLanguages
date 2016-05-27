@@ -770,7 +770,7 @@ The original sources of data for this page were [Wikipedia](http://wikipedia.org
 |---------------------------|-----------------------------|:--------:|:-------------:|
 | Ubercode                  | Ubercode | | [Wikipedia](http://wikipedia.org/wiki/Ubercode) |
 | Uniface                   | Uniface | | [Wikipedia](http://wikipedia.org/wiki/Uniface_(programming_language)) |
-| Unified Parallel C        | Unified Parallel C | | [Wikipedia](http://wikipedia.org/wiki/Unified_Parallel_C) |
+| Unified Parallel C        | Unified Parallel C | [Home](https://upc-lang.org) | [Wikipedia](http://wikipedia.org/wiki/Unified_Parallel_C) |
 | Unity3D Asset             | | | |
 | UnrealScript              | UnrealScript | | [Wikipedia](http://wikipedia.org/wiki/UnrealScript) |
 
